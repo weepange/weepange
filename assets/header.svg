@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-label="Yaroslav — Backend Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111a2b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff"/>
+      <stop offset="1" stop-color="#ff2bd6"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#00e5ff" stroke-opacity="0.06"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000" fill-opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <rect width="960" height="240" rx="10" fill="url(#bg)"/>
+  <rect width="960" height="240" rx="10" fill="url(#grid)"/>
+  <rect width="960" height="240" rx="10" fill="url(#scan)"/>
+  <rect x="0.5" y="0.5" width="959" height="239" rx="10" fill="none" stroke="#00e5ff" stroke-opacity="0.25"/>
+
+  <!-- corner brackets -->
+  <path d="M24 44V24H44 M916 24H936V44 M936 196V216H916 M44 216H24V196" stroke="#00e5ff" stroke-width="2" fill="none"/>
+
+  <!-- circuit traces -->
+  <g stroke="url(#accent)" stroke-width="1.5" fill="none" opacity="0.75">
+    <path d="M760 96H830L850 116H920"/>
+    <path d="M760 146H800L820 166H920"/>
+    <path d="M780 196H870L890 176"/>
+  </g>
+  <g fill="#ff2bd6">
+    <circle cx="920" cy="116" r="3"/>
+    <circle cx="920" cy="166" r="3"/>
+    <circle cx="890" cy="176" r="3"/>
+  </g>
+
+  <!-- status -->
+  <circle cx="800" cy="52" r="4" fill="#39ff88">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="812" y="56" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#39ff88" letter-spacing="1">SYSTEM ONLINE</text>
+
+  <g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">
+    <text x="48" y="72" font-size="16" fill="#00e5ff" fill-opacity="0.85">weepange@debian:~$ whoami<tspan>_<animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+
+    <!-- glitch layers -->
+    <text x="51" y="144" font-size="64" font-weight="700" fill="#ff2bd6" fill-opacity="0.55">YAROSLAV</text>
+    <text x="45" y="141" font-size="64" font-weight="700" fill="#00e5ff" fill-opacity="0.55">YAROSLAV</text>
+    <text x="48" y="142" font-size="64" font-weight="700" fill="#e6f1ff">YAROSLAV</text>
+
+    <text x="48" y="182" font-size="20" fill="#8aa4bf">Backend Engineer  ·  Python  ·  Go  ·  AI/ML  ·  DevOps</text>
+    <text x="48" y="208" font-size="14" fill="#5c7088">Southern Federal University  ·  Applied Informatics</text>
+  </g>
+</svg>
