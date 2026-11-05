@@ -136,22 +136,12 @@ LCT 2026 hackathon (Moscow Metro case): detecting foreign objects in a metro tun
 
 ---
 
-## `> wakatime --week`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&hide_border=true&bg_color=0d0221&title_color=00fff9&text_color=e0e0e0" alt="wakatime" />
-
-</div>
-
----
-
 ## `> now_playing`
 
 <div align="center">
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0221&interchange=false" width="380" alt="Spotify" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31j3fjhz5jfcs4oywrxosrab6baq&cover_image=true&theme=default&show_offline=false&background_color=0d0221&interchange=false&profanity=false&hide_remaster=false" width="380" alt="Spotify" />
 </a>
 
 </div>
