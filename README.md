@@ -1,198 +1,181 @@
- <div align="center">
+<div align="center">
 
-# ⚡ YAROSLAV
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0221,50:ff00c8,100:00fff9&text=YAROSLAV&fontColor=fcee0a&fontSize=70&fontAlignY=38&desc=//%20BACKEND%20ENGINEER%20%C2%B7%20SYSTEM%20ONLINE&descColor=00fff9&descSize=20&descAlignY=60" alt="header" />
 
-### Backend Engineer | Python · Go · AI/ML · Infrastructure
+<a href="https://github.com/weepange">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00FFF9&center=true&vCenter=true&width=620&lines=%3E+Backend+Engineer+(Junior+%E2%86%92+Middle);%3E+Python+%7C+Go+%7C+AI%2FML+%7C+DevOps;%3E+Debian+Linux+%E2%80%94+native+habitat;%3E+Building.+Breaking.+Shipping.;%3E+%D0%A1%D0%B5%D1%80%D1%8C%D1%91%D0%B7%D0%BD%D1%8B%D0%B9+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4+%D0%B1%D0%B5%D0%B7+%D0%BB%D0%B8%D1%88%D0%BD%D0%B5%D0%B3%D0%BE" alt="typing" />
+</a>
 
-**Building things. Breaking things. Learning how they work.**
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-weepange-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weepange)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
+![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=00fff9)
+![Go](https://img.shields.io/badge/Go_(learning)-0d0221?style=for-the-badge&logo=go&logoColor=ff00c8)
+![Docker](https://img.shields.io/badge/Docker-0d0221?style=for-the-badge&logo=docker&logoColor=00fff9)
+![Linux](https://img.shields.io/badge/Debian-0d0221?style=for-the-badge&logo=debian&logoColor=ff00c8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=00fff9)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me | Обо мне
+## `> whoami`
 
 ```yaml
-name: Yaroslav
-username: weepange
-role: Junior Backend Engineer
-university: Southern Federal University
-degree: Applied Informatics
+user:        weepange
+name:        Yaroslav
+role:        Backend Engineer (Junior)
+university:  Southern Federal University — Applied Informatics
+os:          Debian Linux
+status:      🟢 online, always learning
 
 focus:
   - Backend Development
   - AI / ML Engineering
-  - DevOps & Infrastructure
+  - DevOps / Infrastructure
   - Open Source
 
 currently_learning:
   - Go
-  - Backend Architecture
-  - AI Engineering
-  - Infrastructure & Deployment
-
-environment: Debian Linux
+  - Backend architecture
+  - Infrastructure & deployment
 ```
 
-I'm an Applied Informatics student at **Southern Federal University**.
+🇬🇧 I study Applied Informatics at **Southern Federal University** and grow through real cases, hackathons and startup projects. I care about reliable APIs, clean architecture, and understanding the infrastructure that software actually runs on.
 
-I actively develop my engineering skills through personal projects, hackathons, startup initiatives, and practical experimentation.
-
-My main interests are backend engineering, building reliable APIs, exploring AI-powered applications, and understanding the infrastructure behind modern software systems.
-
-**Моя цель** — развиваться как Backend Engineer, создавать полезные продукты и получать практический опыт в реальных инженерных задачах.
+🇷🇺 Учусь в **Южном федеральном университете** по программе «Прикладная информатика». Активно развиваюсь на кейсах, хакатонах и в стартапах. Люблю надёжные API, чистую архитектуру и понимать, на чём всё это работает под капотом.
 
 ---
 
-## ⚙️ Tech Stack
+## `> cat skills.conf`
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,go,cpp,sql" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql,redis" />
-</p>
-
-### DevOps & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github" />
-</p>
-
-### Tools & Environment
-
-<p>
-<img src="https://skillicons.dev/icons?i=debian,vscode,pycharm,neovim" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 LocalSpeaking
-
-**Backend Development · Django · WebSockets · Docker**
-
-A real-time communication project inspired by Discord-like applications.
-
-- Backend application development
-- Real-time communication using WebSockets
-- REST API development
-- Containerized development environment
-
-### 🔹 Lotus IT Academy Hackathon Solution
-
-**AI Engineering · Python · Qwen3 · Qdrant**
-
-An AI-powered information retrieval solution.
-
-- Local LLM inference with Qwen3-0.6B
-- Hybrid search pipeline
-- Vector search with Qdrant
-- Retrieval and reranking experiments
-
-### 🔹 Flower Shop
-
-**Backend Development · Django · Database Design**
-
-A web application developed as a university coursework project.
-
-- Product catalog
-- Backend application logic
-- Database integration
-- Application deployment planning
-
-### 🔹 Lidar_Muha
-
-**Software Development · LiDAR**
-
-A project in my development portfolio.
-
----
-
-## 📊 GitHub Statistics
+| Layer | Stack |
+|:--|:--|
+| **Languages** | Python (confident) · Go (learning) · C++ (basics) · SQL (basics) |
+| **Backend** | Django · FastAPI |
+| **Databases** | PostgreSQL · MySQL · Redis |
+| **DevOps** | Docker · Git · Linux (Debian) |
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=weepange&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weepange&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=weepange&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,go,cpp,django,fastapi,postgres,mysql,redis,docker,git,linux,debian&theme=dark" alt="tech stack" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## `> ls ./projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗣️ LocalSpeaking
+`Django` · `WebSockets` · `Docker`
+
+Real-time communication app in the spirit of Discord: REST API, WebSocket messaging, containerized dev environment.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Lotus IT Academy Hackathon
+`Python` · `Qwen3` · `Qdrant`
+
+AI retrieval solution: local LLM inference (Qwen3-0.6B), hybrid search, vector search with Qdrant, reranking experiments.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌸 Flower Shop
+`Django` · `Database design`
+
+University coursework web app: product catalog, backend logic, database integration.
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Lidar_Muha
+`LiDAR` · `Software`
+
+Experimental project from my development portfolio.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> stats --live`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=weepange&theme=tokyo-night&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=weepange&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0d0221&title_color=00fff9&icon_color=ff00c8&text_color=e0e0e0&ring_color=fcee0a" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weepange&layout=compact&hide_border=true&bg_color=0d0221&title_color=00fff9&text_color=e0e0e0" alt="top langs" />
+
+<img src="https://streak-stats.demolab.com?user=weepange&hide_border=true&background=0d0221&ring=ff00c8&fire=fcee0a&currStreakLabel=00fff9&sideLabels=ff00c8&currStreakNum=e0e0e0&sideNums=e0e0e0&dates=9e9e9e" alt="streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=weepange&bg_color=0d0221&color=00fff9&line=ff00c8&point=fcee0a&area=true&area_color=ff00c8&hide_border=true" alt="activity graph" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## `> snake --eat contributions`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/weepange/weepange/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weepange/weepange/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/weepange/weepange/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
-## 🎧 Spotify
+## `> wakatime --week`
 
 <div align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" width="350" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&hide_border=true&bg_color=0d0221&title_color=00fff9&text_color=e0e0e0" alt="wakatime" />
 
 </div>
 
 ---
 
-## ⏱️ WakaTime
+## `> now_playing`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" />
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0221&interchange=false" width="380" alt="Spotify" />
+</a>
 
 </div>
 
 ---
 
-## 📡 Currently Exploring
+## `> tail -f roadmap.log`
 
 ```text
-[+] Backend architecture and API design
-[+] Go and concurrent programming
-[+] AI-powered applications and RAG
-[+] Docker and infrastructure automation
-[+] Open Source contributions
+[✓] Python backend: Django, FastAPI
+[✓] Docker, Linux, Git workflow
+[~] Go and concurrency
+[~] RAG / LLM-powered apps
+[~] Backend architecture, deployment, CI/CD
+[ ] First meaningful open-source contribution
+[ ] Middle-level engineering
 ```
 
 ---
 
 <div align="center">
 
-### 💬 Let's Build Something Interesting
+**Always learning. Always shipping.** · **Всегда в развитии.**
 
-**Always learning. Always building.**
+![Visitors](https://komarev.com/ghpvc/?username=weepange&style=for-the-badge&color=ff00c8&labelColor=0d0221&label=VISITORS)
 
-![Profile Views](https://komarev.com/ghpvc/?username=weepange&style=flat-square&color=blueviolet&label=PROFILE+VIEWS)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00fff9,50:ff00c8,100:0d0221&section=footer" alt="footer" />
 
 </div>
