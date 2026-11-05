@@ -23,40 +23,28 @@ looking   open source, real engineering tasks
 
 ## stack
 
-<img src="https://skillicons.dev/icons?i=python,go,cpp,django,fastapi,postgres,mysql,redis,docker,git,linux,debian&perline=12" alt="stack" />
+**Languages** <sub>python (confident) · go (learning) · c++ and sql (basics)</sub><br/>
+<img src="https://skillicons.dev/icons?i=python,go,cpp&perline=12" alt="languages" />
 
-<sub>python (confident) · go (learning) · c++ and sql (basics)</sub>
+**Backend** <br/>
+<img src="https://skillicons.dev/icons?i=django,fastapi&perline=12" alt="backend" />
+
+**Data** <br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=12" alt="data" />
+
+**Infra & tools** <br/>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,debian&perline=12" alt="infra" />
 
 <img src="assets/divider.svg" width="100%" height="2" alt="" />
 
 ## projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<b>FlyGuard</b> <sub>(Lidar_Muha)</sub><br/>
-LCT 2026 hackathon, Moscow Metro case. Detects foreign objects in a tunnel from Hesai Pandar128 point clouds; the pipeline is modeled on Drosophila brain circuits.<br/>
-<sub><code>python</code> <code>ros 2</code> <code>docker</code></sub>
-</td>
-<td width="50%" valign="top">
-<b>LocalSpeaking</b><br/>
-Discord-style real-time chat with a REST API and WebSocket messaging.<br/>
-<sub><code>django</code> <code>websockets</code> <code>docker</code></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<b>Lotus IT Academy Hackathon</b><br/>
-AI retrieval with local Qwen3-0.6B, hybrid and vector search, reranking.<br/>
-<sub><code>python</code> <code>qdrant</code></sub>
-</td>
-<td width="50%" valign="top">
-<b>Flower Shop</b><br/>
-University coursework web app with a product catalog and database layer.<br/>
-<sub><code>django</code> <code>sql</code></sub>
-</td>
-</tr>
-</table>
+| Project | What it is | Stack |
+|:--|:--|:--|
+| **FlyGuard** <sub>(Lidar_Muha)</sub> | LCT 2026 hackathon, Moscow Metro case. Detects foreign objects in a tunnel from Hesai Pandar128 point clouds; the pipeline is modeled on Drosophila brain circuits. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **LocalSpeaking** | Discord-style real-time chat with a REST API and WebSocket messaging. | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Lotus IT Academy Hackathon** | AI retrieval with local Qwen3-0.6B, hybrid and vector search, reranking. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white) |
+| **Flower Shop** | University coursework web app with a product catalog and database layer. | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 <img src="assets/divider.svg" width="100%" height="2" alt="" />
 
@@ -71,6 +59,12 @@ University coursework web app with a product catalog and database layer.<br/>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weepange/weepange/output/github-contribution-grid-snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/weepange/weepange/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<img src="assets/divider.svg" width="100%" height="2" alt="" />
+
+## contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-@weepange-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/weepange)
 
 <br/>
 
