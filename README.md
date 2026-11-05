@@ -3,8 +3,8 @@
 <p align="center">
   <samp>
     <a href="https://t.me/weepange">telegram</a> .
-    <a href="#projects">projects</a> .
     <a href="#stack">stack</a> .
+    <a href="#projects">projects</a> .
     <a href="#stats">stats</a>
   </samp>
 </p>
@@ -19,23 +19,51 @@ daily     Debian Linux, Python, Docker
 looking   open source, real engineering tasks
 ```
 
+<img src="assets/divider.svg" width="100%" height="2" alt="" />
+
 ## stack
 
 <img src="https://skillicons.dev/icons?i=python,go,cpp,django,fastapi,postgres,mysql,redis,docker,git,linux,debian&perline=12" alt="stack" />
 
 <sub>python (confident) · go (learning) · c++ and sql (basics)</sub>
 
+<img src="assets/divider.svg" width="100%" height="2" alt="" />
+
 ## projects
 
-- **FlyGuard** (Lidar_Muha): LCT 2026 hackathon, Moscow Metro case. Detects foreign objects in a tunnel from Hesai Pandar128 point clouds; the pipeline is modeled on Drosophila brain circuits. `python` `ros 2` `docker`
-- **LocalSpeaking**: Discord-style real-time chat with REST API and WebSockets. `django` `docker`
-- **Lotus IT Academy Hackathon**: AI retrieval with local Qwen3-0.6B, hybrid and vector search, reranking. `python` `qdrant`
-- **Flower Shop**: university coursework web app with catalog and database layer. `django` `sql`
+<table>
+<tr>
+<td width="50%" valign="top">
+<b>FlyGuard</b> <sub>(Lidar_Muha)</sub><br/>
+LCT 2026 hackathon, Moscow Metro case. Detects foreign objects in a tunnel from Hesai Pandar128 point clouds; the pipeline is modeled on Drosophila brain circuits.<br/>
+<sub><code>python</code> <code>ros 2</code> <code>docker</code></sub>
+</td>
+<td width="50%" valign="top">
+<b>LocalSpeaking</b><br/>
+Discord-style real-time chat with a REST API and WebSocket messaging.<br/>
+<sub><code>django</code> <code>websockets</code> <code>docker</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b>Lotus IT Academy Hackathon</b><br/>
+AI retrieval with local Qwen3-0.6B, hybrid and vector search, reranking.<br/>
+<sub><code>python</code> <code>qdrant</code></sub>
+</td>
+<td width="50%" valign="top">
+<b>Flower Shop</b><br/>
+University coursework web app with a product catalog and database layer.<br/>
+<sub><code>django</code> <code>sql</code></sub>
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" height="2" alt="" />
 
 ## stats
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=weepange&show_icons=true&include_all_commits=true&bg_color=0d1117&border_color=30363d&title_color=00e5ff&icon_color=ff2bd6&text_color=c9d1d9&ring_color=00e5ff" alt="stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weepange&layout=compact&bg_color=0d1117&border_color=30363d&title_color=00e5ff&text_color=c9d1d9" alt="top languages" />
+<img width="49%" src="assets/stats.svg" alt="stats" />
+<img width="49%" src="assets/langs.svg" alt="top languages" />
 
 <img src="https://streak-stats.demolab.com?user=weepange&background=0d1117&border=30363d&ring=00e5ff&fire=ff2bd6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00e5ff&sideLabels=8b949e&dates=8b949e" alt="streak" />
 
