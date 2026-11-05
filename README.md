@@ -14,6 +14,8 @@
 ![Linux](https://img.shields.io/badge/Debian-0d0221?style=for-the-badge&logo=debian&logoColor=ff00c8)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=00fff9)
 
+[![Telegram](https://img.shields.io/badge/Telegram-@weepange-0d0221?style=for-the-badge&logo=telegram&logoColor=00fff9)](https://t.me/weepange)
+
 </div>
 
 ---
@@ -95,10 +97,10 @@ University coursework web app: product catalog, backend logic, database integrat
 </td>
 <td width="50%" valign="top">
 
-### 📡 Lidar_Muha
-`LiDAR` · `Software`
+### 🪰 FlyGuard (Lidar_Muha)
+`Python` · `ROS 2` · `LiDAR` · `Docker`
 
-Experimental project from my development portfolio.
+LCT 2026 hackathon (Moscow Metro case): detecting foreign objects in a metro tunnel from Hesai Pandar128 point clouds. Output: "path is clear" or "obstacle in N m". The pipeline is modeled on the Drosophila brain's computation circuits.
 
 </td>
 </tr>
@@ -173,6 +175,8 @@ Experimental project from my development portfolio.
 <div align="center">
 
 **Always learning. Always shipping.** · **Всегда в развитии.**
+
+📨 [Telegram: @weepange](https://t.me/weepange)
 
 ![Visitors](https://komarev.com/ghpvc/?username=weepange&style=for-the-badge&color=ff00c8&labelColor=0d0221&label=VISITORS)
 
